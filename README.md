@@ -13,15 +13,15 @@ pip install fng-api
 
 
 ## Usage
-Chose Age Range between 1 -> 100
+Choose Age Range between 1 -> 100
 
-Chose Country Code as lower case | au | ca | gr | it | fr | sp | za | tn | uk | us | cyen | cygk | pl
+Choose Country Code as lower case | au | ca | gr | it | fr | sp | za | tn | uk | us | cyen | cygk | pl
 "Austrailia, Canada, Germany, Italy, France, Spain, South Africa, Tunisia, United Kingdom, United States, Cyprus, Cyprus Greek, Poland
 
 Choose Name Type set as lower case | us | ar | cs | ch | en | gr | it | gd | ru | pl | hu")
 "United States, Arabic, Czech, Chinese, English + Welsh, German, Italian, Scotish, Russian, Polish, Hungarian"
 
-Chose Gender as Lowercase, its one or the other for now
+Choose Gender as Lowercase, its one or the other for now
 male or female
 
 
